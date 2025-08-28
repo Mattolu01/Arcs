@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+}
+
+h2 {
+    /* text-align: center; */
+}
+
+.container {
+    /* text-align: center; */
+    border: 400px;
+    border-color: blueviolet;
+    border-radius: 20px;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-image: url(7b0081dd-747e-45de-97d2-100f14af075b.png);
+    background-position: center;
+}
+
+.sub-head-list {
+    /* text-align: center; */
+    margin-left: 450px;
+    border: black;
+    /* border-width: 400px */
+}
+
+.sub-head {}
