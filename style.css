@@ -27,4 +27,7 @@ h2 {
     /* border-width: 400px */
 }
 
-.sub-head {}
+.sub-head {
+    color: brown;
+    font-weight: bolder;
+}
